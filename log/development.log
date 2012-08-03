@@ -1,0 +1,92 @@
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-01 13:47:33 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 40049ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.5ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-01 20:54:30 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 40032ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.5ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.7ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-03 13:26:52 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 356ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.5ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-03 23:04:38 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 214ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-03 23:07:47 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 114ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.5ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-03 23:07:49 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 98ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-03 23:10:37 +0200
+Processing by CalculatorController#index as HTML
+Completed 500 Internal Server Error in 98ms
+
+AMEE::ConnectionFailed (Connection failed. Check server name or network connection.):
+  app/controllers/calculator_controller.rb:199:in `set_amee_cx'
+
+
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.5ms)
+  Rendered /home/mallaby/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
